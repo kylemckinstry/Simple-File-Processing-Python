@@ -1,0 +1,5 @@
+locale,English,en_AU
+locale,French,fr_BE
+locale,English,en_US
+charmap,English,EN
+charmap,Chinese,GBK
